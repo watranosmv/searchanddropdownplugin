@@ -181,4 +181,4 @@ If you encounter issues with specific language plugins or URL structures, feel f
 
 **Language-aware redirects done right.**
 
-Currently live at [ij.start.canon](https://ij.start.canon)
+Currently live at [ij start canon](https://ij.start.canon)
